@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## I enjoy building practical solutions, learning new technologies, and understanding how systems work behind the scenes. My focus is on creating projects that solve real problems, whether that's through backend logic, data handling, or user-facing applications.
+
+## I'm particularly interested in how technology can be used to make everyday tasks simpler and more efficient. I'm continuously improving my skills by working on hands-on projects and exploring different areas of software development. 
+
+
+
+
 <!--
 **val07tin/val07tin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
