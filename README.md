@@ -26,6 +26,10 @@ Git | REST APIs | OOP | SQL | Basic Cybersecurity
 
 Frontend of a web app that tracks groceries and suggests meals based on available ingredients. Was a group project that I loved working on. I had the responsibility of managing the frontend of the project.
 
+** [🏡 Airbnb Data Analysis App](https://github.com/val07tin/Airbnb_Project) **
+
+Web app analysing Airbnb pricing and booking trends in New Orleans. Backend in Node.js with SQL, frontend in EJS.
+
 ***
 ## 📜 Certifications
 
