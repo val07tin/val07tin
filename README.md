@@ -34,6 +34,7 @@ Web app analysing Airbnb pricing and booking trends in New Orleans. Backend in N
 ## 📜 Certifications
 
 - AWS Certified Cloud Practitioner
+- Python for AI
 
 *** 
 ## ⚡ Currently
